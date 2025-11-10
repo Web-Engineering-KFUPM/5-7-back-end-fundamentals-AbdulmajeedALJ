@@ -101,6 +101,9 @@ React receives JSON RESPONSE <--  Express server
 Front-end ALWAYS controls the UI.
 Back-end ONLY supplies the data.
 
+
+--Went throw it--
+
 */
 import { useEffect, useState } from 'react';
 import './index.css';
